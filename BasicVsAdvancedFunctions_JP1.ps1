@@ -7,7 +7,7 @@ function Get-SomethingBasic
 	Write-Host $Param
 }
 
-## Just takes an input and gives an output
+## Just takes an input and gives an output .......
 Get-SomethingBasic -Param 'This is like wow'
 
 Get-SomethingBasic -Param 'Hooo haaaa'
